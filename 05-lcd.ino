@@ -1,8 +1,8 @@
 /**
  *  @file lcd.ino
- *  @brief Example Digital Outputs
- *  @date 10/05/2019
- *  @version 1.0.0
+ *  @brief Example LCD Module
+ *  @date 08/07/2019
+ *  @version 1.0.1
  *
  *  Copyright (C) 2019  Leandro Perez Guatibonza
  *
@@ -40,7 +40,7 @@ void setup() {
   lcd.begin(16, 2);
 
   // Show User Message
-  lcd.print("Charla Arduino Teravision 2019");
+  lcd.print("Charla Introduccion Arduino 2019");
 }
 
 /**

@@ -1,6 +1,6 @@
 /**
  *  @file lcd-analogIn.ino
- *  @brief Example Digital Outputs
+ *  @brief Example LCD and Analog In
  *  @date 10/05/2019
  *  @version 1.0.0
  *
